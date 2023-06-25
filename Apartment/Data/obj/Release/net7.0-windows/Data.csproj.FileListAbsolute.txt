@@ -1,0 +1,12 @@
+D:\GitHub\Apartment\Apartment\Data\bin\Release\net7.0-windows\Data.deps.json
+D:\GitHub\Apartment\Apartment\Data\bin\Release\net7.0-windows\Data.dll
+D:\GitHub\Apartment\Apartment\Data\bin\Release\net7.0-windows\Data.pdb
+D:\GitHub\Apartment\Apartment\Data\obj\Release\net7.0-windows\Data.csproj.AssemblyReference.cache
+D:\GitHub\Apartment\Apartment\Data\obj\Release\net7.0-windows\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Apartment\Apartment\Data\obj\Release\net7.0-windows\Data.AssemblyInfoInputs.cache
+D:\GitHub\Apartment\Apartment\Data\obj\Release\net7.0-windows\Data.AssemblyInfo.cs
+D:\GitHub\Apartment\Apartment\Data\obj\Release\net7.0-windows\Data.csproj.CoreCompileInputs.cache
+D:\GitHub\Apartment\Apartment\Data\obj\Release\net7.0-windows\Data.dll
+D:\GitHub\Apartment\Apartment\Data\obj\Release\net7.0-windows\refint\Data.dll
+D:\GitHub\Apartment\Apartment\Data\obj\Release\net7.0-windows\Data.pdb
+D:\GitHub\Apartment\Apartment\Data\obj\Release\net7.0-windows\ref\Data.dll
